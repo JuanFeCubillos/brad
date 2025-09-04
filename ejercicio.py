@@ -1,6 +1,4 @@
-
-
- nombre = "Felipe"
- print("Hola, " + nombre)
+nombre = "Felipe"
+print("Hola, " + nombre)
 
 
